@@ -1,0 +1,3 @@
+blockMesh
+pimpleDyMFoam
+paraFoam
